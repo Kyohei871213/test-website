@@ -1,4 +1,4 @@
-body{margin:0;}
+body{margin:0 auto;}
 /* パソコンで見たときは"pc"のclassがついた画像が表示される */
 .pc { display: block !important; }
 .sp { display: none !important; }
